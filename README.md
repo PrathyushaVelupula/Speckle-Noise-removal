@@ -1,4 +1,4 @@
-# Speckle-Noise-removal
+# Speckle-Noise-removal in UltraSound images
 This is implementation of https://rdcu.be/dmaMY
 
 Wavelet and Total Variation Based Method Using Adaptive Regularization for Speckle Noise Reduction in Ultrasound Images
