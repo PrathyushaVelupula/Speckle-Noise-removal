@@ -3,7 +3,6 @@ This is implementation of https://rdcu.be/dmaMY
 
 Wavelet and Total Variation Based Method Using Adaptive Regularization for Speckle Noise Reduction in Ultrasound Images
 Nishtha Rawat, Manminder Singh & Birmohan Singh 
-Wireless Personal Communications volume 106, pages1547–1572 (2019)Cite this article
 
 
 Abstract
